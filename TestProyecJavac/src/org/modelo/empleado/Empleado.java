@@ -6,5 +6,5 @@ public class Empleado {
 		System.out.println("Mensaje");
 		
 		System.out.println("Hola");
-	}
+	} //
 }
